@@ -3,7 +3,7 @@ title: "Helloworld"
 output: html_document 
 
 # This is a Markdown file
-# The first of many
+# The firs of many
 
 
 ---
